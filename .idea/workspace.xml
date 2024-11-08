@@ -25,9 +25,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/umurzoqov_j/Desktop/showFolder"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\umurzoqov_j\Desktop\showFolder" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="states" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="showFolder" />
